@@ -16,11 +16,13 @@ The chosen language to made this analysis is Python and all the results are foun
 
 # Questions
 ## 01 - Using the TFP.csv file, composed by TFP (rtfpna variable) at constant national prices (2005 = 1) for three countries: United States (USA), Canada (CAN) and Mexico (MEX). 
+> TODO
 ### a) Make an exploratory data analysis;
 
+>TODO
 ### b) Forecast 10 years of the series (if you are performing the exercise in R, use package “forecast”);
 
-### c) Check in the following link pages 2 and 3: [Pen World Table v8.0](https://cran.r-project.org/web/packages/pwt8/pwt8.pdf) to see a list of all variables in the original dataset. Can you think about another feature that could be helpful in explaining TFP series? Explain.
+### c) Check in the following link page: [Pen World Table v8.0 and v8.1](https://cran.r-project.org/web/packages/pwt8/pwt8.pdf) to see a list of all variables in the original dataset. Can you think about another feature that could be helpful in explaining TFP series? Explain.
 
 
 ## 02 - About brazilian imports and exports:
@@ -32,6 +34,7 @@ The chosen language to made this analysis is Python and all the results are foun
 
 ### a) Show the evolution of total monthly and total annual exports from Brazil (all states and to everywhere) of ‘soybeans’, ‘soybean oil’ and ‘soybean meal’;
 
+> TODO
 ### b) What are the 3 most important products exported by Brazil in the last 5 years?
 
 ### c) What are the main routes through which Brazil have been exporting ‘corn’ in the last few years? Are there differences in the relative importancem of routes depending on the product?
